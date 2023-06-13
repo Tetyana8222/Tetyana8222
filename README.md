@@ -9,6 +9,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kolesnik.tm@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tetyana-kolisnyk-a61191b6/)
 
+
+# Statistics
+
+![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tetyana8222&theme=zenburn)
+
  ![Snake animation](https://svgshare.com/i/fRJ.svg)
 
 <!--
