@@ -1,4 +1,4 @@
-### Hi there 👋
+ Hi there 👋Hi there! 👋 I'm Tetyana, a passionate and motivated frontend developer currently studying to become a professional in the field. I'm excited about the endless possibilities of web development and enjoy creating user-friendly and visually appealing interfaces.
 
 <!--
 **Tetyana8222/Tetyana8222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
