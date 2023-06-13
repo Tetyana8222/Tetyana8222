@@ -13,6 +13,10 @@
 # Statistics
 
 ![GH-stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tetyana8222&theme=zenburn)
+<div align="left">
+<img src="https://komarev.com/ghpvc/?username=Tetyana8222&style=flat-square&color=blue" alt="" align="center"/>
+</div>
+
 
  ![Snake animation](https://svgshare.com/i/fRJ.svg)
 
