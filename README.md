@@ -1,6 +1,6 @@
  Hi there! 👋 I'm Tetyana, a passionate and motivated frontend developer currently studying to become a professional in the field. I'm excited about the endless possibilities of web development and enjoy creating user-friendly and visually appealing interfaces.
 
-# 👨🏻‍💻 Open to work
+# Open to work
 
 # Contacts
 
